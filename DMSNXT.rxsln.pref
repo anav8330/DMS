@@ -1,0 +1,16 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{A156DA2A-FB26-4D3B-8CD5-0631C1FF53B0}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>b63fe26b-ed1b-4bf5-9bad-d3879a93cb42</string>
+      <string>9ef00bb5-5234-4303-878e-82a0760fad44</string>
+      <string>0554fcae-310a-4c6b-89c9-c90c86868889</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution DMSNXT[DMSNXT[ReportTemplate[]TestScript[]]]]&#xD;&#xA;Solution DMSNXT\DMSNXT\DMSNXT.rxtst&#xD;&#xA;Solution DMSNXT\DMSNXT\TestScript\TC02_LeSelection.cs" />
+  <StartupProject value="{A156DA2A-FB26-4D3B-8CD5-0631C1FF53B0}" />
+</Properties>
